@@ -215,14 +215,18 @@ Esto solo es visible para GitHub
 ---
 
 ### Mensiones
-
+```
 @ronal-xavi
+```
 
 ---
 
 ### Emojis
 
 ```
- :blush:
- :smirk:
+:blush:
+:smirk:
 ```
+:blush:
+:smirk:
+---
