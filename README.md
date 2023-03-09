@@ -1,4 +1,6 @@
-# Conceptos Basicos de Markdown
+# Conceptos Básicos de Markdown
+
+## Estandar
 
 ---
 
@@ -196,3 +198,31 @@ if(1 = 1){
 ```
 
 ![Visual Estudio Logo](img/vscode.svg "Este es el logo de Visual Studio Code")
+
+---
+
+## GitHub
+
+Esto solo es visible para GitHub
+
+### Checkbox
+
+- [x]
+- [ ]
+- [ ]
+- [x]
+
+---
+
+### Mensiones
+
+@ronal-xavi
+
+---
+
+### Emojis
+
+```
+ :blush:
+ :smirk:
+```
