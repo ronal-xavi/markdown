@@ -215,6 +215,7 @@ Esto solo es visible para GitHub
 ---
 
 ### Mensiones
+
 ```
 @ronal-xavi
 ```
@@ -227,6 +228,8 @@ Esto solo es visible para GitHub
 :blush:
 :smirk:
 ```
+
 :blush:
 :smirk:
+
 ---
