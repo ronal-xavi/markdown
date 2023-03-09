@@ -191,5 +191,8 @@ if(1 = 1){
 ![Visual Estudio Logo](img/vscode.svg)
 
 <!-- Al igual que los enlaces podemos mostrar un mensaje pasar el cursor sobre la imagen -->
+![Visual Estudio Logo](img/vscode.svg "Este es el logo de Visual Studio Code")
+
 ```
-![Visual Estudio Logo](img/vscode.svg)
+
+![Visual Estudio Logo](img/vscode.svg "Este es el logo de Visual Studio Code")
